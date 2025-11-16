@@ -1,0 +1,7 @@
+faiss-cpu
+sentence-transformers
+pypdf
+openai
+fastapi
+uvicorn
+tiktoken
